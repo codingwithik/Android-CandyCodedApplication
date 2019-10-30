@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
 
         Intent intent = new Intent(this, InfoActivity.class);
         startActivity(intent);
-        return super.onOptionsItemSelected(item
+        return super.onOptionsItemSelected(item);
     }
     // ***
     // TODO - Task 1 - Show Store Information Activity
